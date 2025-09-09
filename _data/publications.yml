@@ -2,6 +2,17 @@
 
 papers:
   # 2025 Papers
+  - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
+    authors: ["Chengmei Yang", "Jianxin Li", "Zhenyang Li", "Chen Ma", "Lianghua He"]
+    venue: "TOMM"
+    venue_full: "Transactions on Multimedia Computing Communications and Applications"
+    year: 2025
+    type: "journal"
+    ccf_rank: "B"
+    featured: false
+    first_author: false
+    url: "#"
+    
   - title: "Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs"
     authors: ["Qian Li", "Siyuan Liang", "Yuzheng Zhang", "Cheng Ji", "Zongyu Chang", "Shangguang Wang"]
     venue: "ACM MM"
