@@ -3,7 +3,7 @@
 papers:
   # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
-    authors: ["Chengmei Yang", "Jianxin Li", "Zhenyang Li", "Chen Ma", "Lianghua He"]
+    authors: ["Chengmei Yang", "Qian Li", "Zhenyang Li", "Chen Ma", "Lianghua He"]
     venue: "TOMM"
     venue_full: "Transactions on Multimedia Computing Communications and Applications"
     year: 2025
