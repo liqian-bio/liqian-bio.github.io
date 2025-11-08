@@ -24,6 +24,14 @@ My research focused on natural language processing, knowledge graph and multi-mo
 Publications
 2025
 
+Multi-Modal Fact Knowledge Generation for Imbalanced Cross-Source Entity Alignment.
+Qian Li, Cheng Ji, Zhaoji Liang, Yuzheng Zhang, Zhuo Chen, Siyuan Liang.
+The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026), CCF-A.
+
+SCo-Cloud: Satellite Constellation Collaboration for Cloud-Aware Onboard-Computed Imaging and Transmission.
+Jia Liu, Qian Li, Yongqi Li, Cheng Ji, Shangguang Wang.
+The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026), CCF-A.
+
 Multimodal Knowledge Retrieval-Augmented Iterative Alignment for Satellite Commonsense Conversation.
 Qian Li, Xuchen Li, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang.
 The 34rd International Joint Conference on Artificial Intelligence (IJCAI 2025), CCF-A.
