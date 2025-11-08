@@ -1,28 +1,7 @@
 # Publications Data
 
 papers:
-  # 2026 Papers
-  - title: "Multi-Modal Fact Knowledge Generation for Imbalanced Cross-Source Entity Alignment"
-    authors: ["Qian Li", "Cheng Ji", "Zhaoji Liang", "Yuzheng Zhang", "Zhuo Chen", "Siyuan Liang"]
-    venue: "AAAI"
-    venue_full: "The Fortieth AAAI Conference on Artificial Intelligence"
-    year: 2026
-    type: "conference"
-    ccf_rank: "A"
-    featured: true
-    first_author: true
-    url: "#"
 
-  - title: "SCo-Cloud: Satellite Constellation Collaboration for Cloud-Aware Onboard-Computed Imaging and Transmission"
-    authors: ["Jia Liu", "Qian Li", "Yongqi Li", "Cheng Ji", "Shangguang Wang"]
-    venue: "AAAI"
-    venue_full: "The Fortieth AAAI Conference on Artificial Intelligence"
-    year: 2026
-    type: "conference"
-    ccf_rank: "A"
-    featured: true
-    first_author: false
-    url: "#"
     
   # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
