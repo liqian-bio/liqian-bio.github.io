@@ -1,7 +1,7 @@
 # Publications Data
 
 papers:
-  # 2025 Papers
+  # 2026 Papers
   - title: "Multi-Modal Fact Knowledge Generation for Imbalanced Cross-Source Entity Alignment"
     authors: ["Qian Li", "Cheng Ji", "Zhaoji Liang", "Yuzheng Zhang", "Zhuo Chen", "Siyuan Liang"]
     venue: "AAAI"
@@ -21,9 +21,10 @@ papers:
     type: "conference"
     ccf_rank: "A"
     featured: true
-    first_author: true
+    first_author: false
     url: "#"
-  
+    
+  # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
     authors: ["Chengmei Yang", "Qian Li", "Zhenyang Li", "Chen Ma", "Lianghua He"]
     venue: "TOMM"
@@ -34,11 +35,12 @@ papers:
     featured: false
     first_author: false
     url: "#"
+
     
   - title: "Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs"
     authors: ["Qian Li", "Siyuan Liang", "Yuzheng Zhang", "Cheng Ji", "Zongyu Chang", "Shangguang Wang"]
-    venue: "ACM MM"
-    venue_full: "ACM Multimedia 2025"
+    venue: "AAAI"
+    venue_full: "The Fortieth AAAI Conference on Artificial Intelligence"
     year: 2025
     type: "conference"
     ccf_rank: "A"
