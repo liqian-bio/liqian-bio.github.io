@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎉🎉🎉 📢 Two Papers Accepted to AAAI 2026 (oral) ！！！"
+title: "🎉🎉🎉 📢 Two Papers Accepted to AAAI 2025 ！！！"
 date: 2025-11-08
 categories: [news, publications]
 featured: true
