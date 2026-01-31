@@ -23,6 +23,17 @@ papers:
     featured: true
     first_author: false
     url: "#"
+
+  - title: "DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection"
+    authors: ["Jiayi Zuo", "Songwei Pei", "Qian Li", "Yuanzhuo Huang", "Shangguang Wang"]
+    venue: "TGRS"
+    venue_full: "IEEE Transactions on Geoscience and Remote Sensing"
+    year: 2026
+    type: "journal"
+    ccf_rank: "B"
+    featured: true
+    first_author: false
+    url: "#"
     
   # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
