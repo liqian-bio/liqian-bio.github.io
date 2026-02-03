@@ -34,6 +34,17 @@ papers:
     featured: true
     first_author: false
     url: "#"
+
+  - title: "Composite Degradation Image Restoration Based on Multi-Dimensional Continuous Degradation Intensity Prediction"
+    authors: ["Yuehua Li", "Songwei Pei", "Qian Li", "Bingfeng Liu", "Shangguang Wang"]
+    venue: "TMM"
+    venue_full: "IEEE Transactions on Multimedia"
+    year: 2026
+    type: "journal"
+    ccf_rank: "B"
+    featured: true
+    first_author: false
+    url: "#"
     
   # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
