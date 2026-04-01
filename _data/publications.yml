@@ -45,6 +45,17 @@ papers:
     featured: true
     first_author: false
     url: "#"
+
+  - title: "GReD-RSITR: A Generative Re-examined Discriminative Framework for Remote Sensing Image-Text Retrieval"
+    authors: ["Shuhuai Wang", "Songwei Pei", "Bingfeng Liu", "Yuanzhou Huang", "Qian Li",  "Shangguang Wang"] 
+    venue: "CVPR findings."
+    venue_full: "Computer Vision and Pattern Recognition Conference."
+    year: 2026
+    type: "journal"
+    ccf_rank: "-"
+    featured: true
+    first_author: false
+    url: "#"
     
   # 2025 Papers
   - title: "R-HMF:A Relation-enhanced Hierarchical Multimodal Framework for Few-shot Knowledge Graph Completion"
