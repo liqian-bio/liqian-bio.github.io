@@ -52,7 +52,6 @@ papers:
     venue_full: "Computer Vision and Pattern Recognition Conference."
     year: 2026
     type: "journal"
-    ccf_rank: "-"
     featured: true
     first_author: false
     url: "#"
