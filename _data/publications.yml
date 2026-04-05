@@ -24,6 +24,40 @@ papers:
     first_author: false
     url: "#"
 
+  - title: "Composite Degradation Image Restoration Based on Multi-Dimensional Continuous Degradation Intensity Prediction"
+    authors: ["Yuehua Li", "Songwei Pei", "Qian Li", "Bingfeng Liu", "Shangguang Wang"]
+    venue: "TMM"
+    venue_full: "IEEE Transactions on Multimedia"
+    year: 2026
+    type: "journal"
+    ccf_rank: "A"
+    featured: true
+    first_author: false
+    url: "#"
+
+  - title: "Self-Supervised Aggregation Framework for Text-Attributed Heterogeneous Graphs Representation"
+    authors: ["Fei Teng", "Quyan Xiao", "Xingwang Li", "Xiaoqing Ye", "Qian Li"]
+    venue: "TKDE"
+    venue_full: "IEEE Transactions on Knowledge and Data Engineering"
+    year: 2026
+    type: "journal"
+    ccf_rank: "A"
+    featured: true
+    first_author: false
+    url: "#"
+
+
+  - title: "DQA-DETR: Dynamic Query Aggregation for Oriented Object Detection in Remote Sensing Images"
+    authors: ["Yongchen Yao", "Songwei Pei", "Yuanzhou Huang", "Qian Li", "Shangguang Wang"]
+    venue: "JSTARS"
+    venue_full: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"
+    year: 2026
+    type: "journal"
+    featured: true
+    first_author: false
+    url: "#"
+
+
   - title: "DENet: Dual-Path Edge Network with Global-Local Attention for Infrared Small Target Detection"
     authors: ["Jiayi Zuo", "Songwei Pei", "Qian Li", "Yuanzhuo Huang", "Shangguang Wang"]
     venue: "TGRS"
@@ -35,16 +69,7 @@ papers:
     first_author: false
     url: "#"
 
-  - title: "Composite Degradation Image Restoration Based on Multi-Dimensional Continuous Degradation Intensity Prediction"
-    authors: ["Yuehua Li", "Songwei Pei", "Qian Li", "Bingfeng Liu", "Shangguang Wang"]
-    venue: "TMM"
-    venue_full: "IEEE Transactions on Multimedia"
-    year: 2026
-    type: "journal"
-    ccf_rank: "B"
-    featured: true
-    first_author: false
-    url: "#"
+
 
   - title: "GReD-RSITR: A Generative Re-examined Discriminative Framework for Remote Sensing Image-Text Retrieval"
     authors: ["Shuhuai Wang", "Songwei Pei", "Bingfeng Liu", "Yuanzhou Huang", "Qian Li",  "Shangguang Wang"] 
