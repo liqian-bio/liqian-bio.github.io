@@ -38,7 +38,7 @@ papers:
   - title: "Self-Supervised Aggregation Framework for Text-Attributed Heterogeneous Graphs Representation"
     authors: ["Fei Teng", "Quyan Xiao", "Xingwang Li", "Xiaoqing Ye", "Qian Li"]
     venue: "TKDE"
-    venue_full: "IEEE Transactions on Knowledge and Data Engineering"
+    venue_full: "IEEE Transactions on Knowledge and Data Engineering."
     year: 2026
     type: "journal"
     ccf_rank: "A"
