@@ -2,6 +2,17 @@
 
 papers:
   # 2026 Papers
+
+  - title: "A Survey of LLM Alignment: Instruction Understanding, Intention Reasoning, and Reliable Generation"
+    authors: ["Zongyu Chang", "Feihong Lu", "Ziqin Zhu", "Qian Li", "Cheng Ji", "Zhuo Chen", "Yang Liu", "Ruifeng Xu", "Yangqiu Song", "Jianxin Li", "Shangguang Wang"]
+    venue: "Neurocomputing"
+    venue_full: "Neurocomputing"
+    year: 2026
+    type: "journal"
+    featured: true
+    first_author: true
+    url: "#"
+  
   - title: "Multi-Modal Fact Knowledge Generation for Imbalanced Cross-Source Entity Alignment"
     authors: ["Qian Li", "Cheng Ji", "Zhaoji Liang", "Yuzheng Zhang", "Zhuo Chen", "Siyuan Liang"]
     venue: "AAAI"
@@ -76,7 +87,7 @@ papers:
     venue: "CVPR findings."
     venue_full: "Computer Vision and Pattern Recognition Conference."
     year: 2026
-    type: "journal"
+    type: "conference"
     featured: true
     first_author: false
     url: "#"
