@@ -12,6 +12,17 @@ papers:
     featured: true
     first_author: true
     url: "#"
+    
+  - title: "MINA: Multimodal Intention Analysis of Social Media Posts via LLM-Guided Audio-Visual-Text Reasoning"
+    authors: ["Feihong Lu", "Tao Yang", "Ziqin Zhu", "Yudi Huang", "Shiqi Gao", "Yangyifei Luo", "Zengxu Wang", "Qian Li", "Qingyun Sun", "Jianxin Li"]
+    venue: "PR"
+    venue_full: "Pattern Recognition"
+    year: 2026
+    type: "journal"
+    featured: true
+    first_author: true
+    url: "#"
+  
   
   - title: "Multi-Modal Fact Knowledge Generation for Imbalanced Cross-Source Entity Alignment"
     authors: ["Qian Li", "Cheng Ji", "Zhaoji Liang", "Yuzheng Zhang", "Zhuo Chen", "Siyuan Liang"]
